@@ -44,3 +44,5 @@ def validar_reglas_tarea(tarea, usuario, rol, estado, prioridad, dias):
             else:
                 print("No es admin")
     return True
+
+
